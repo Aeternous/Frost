@@ -1,0 +1,9 @@
+# Build output (the app is published under Releases instead)
+Frost.app/
+*.zip
+
+# Local copies of earlier versions, kept on this Mac only
+proto1_Frost/
+snapshots/
+
+.DS_Store
